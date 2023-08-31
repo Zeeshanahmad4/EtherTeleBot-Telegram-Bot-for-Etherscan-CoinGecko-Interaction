@@ -1,2 +1,59 @@
-# EtherTeleBot-Telegram-Bot-for-Etherscan-CoinGecko-Interaction
-EtherTeleBot 🌐: An intuitive Telegram bot that offers real-time interaction with Etherscan and CoinGecko, streamlining crypto monitoring and data retrieval right within your chat! 🚀🔍
+# 🌐 EtherTeleBot: Telegram Bot for Etherscan & CoinGecko Interaction 🤖
+
+### 🌟 Project Overview:
+
+`EtherTeleBot` is a powerful Telegram bot designed to seamlessly interact with Etherscan and CoinGecko APIs. Whether you're a crypto enthusiast or a seasoned trader, EtherTeleBot provides real-time monitoring and data retrieval right at your fingertips!
+
+### ✨ Features:
+
+- **Telegram Group Integration**: Operate within a Telegram group.
+- **Exclusive User Interaction**: Set to respond only to specific Telegram accounts.
+- **Real-time Wallet & Contract Monitoring**: Monitor Ethereum wallets and contracts on-the-go.
+- **Dynamic Management via Telegram**: Add wallets, set rules, convert token balances, and more, all through Telegram!
+- **API Integration**: Direct interaction with Etherscan and CoinGecko APIs for accurate data retrieval.
+
+#### 🚀 Future Enhancements:
+
+- **Notification System**: Get notified about significant price changes or transactions.
+- **Data Visualization**: Visual representation of wallet transactions over time.
+- **Custom Command Creation**: Allow users to create custom commands for personalized interactions.
+
+## 💡 Usage Examples:
+``` # Start the bot
+$ python main.py
+```
+
+Once the bot is running, you can use commands like:
+
+- `/start` - Initialize the bot.
+- `/monitor_wallet <wallet_address>` - Monitor a specific Ethereum wallet.
+
+🔧 Setup and Installation Instructions:
+
+``` $ git clone https://github.com/yourusername/EtherTeleBot.git```
+
+Navigate to the project directory and install the required packages
+``` $ cd EtherTeleBot
+$ pip install -r requirements.txt
+```
+
+1. Update `config/settings.py` with your API keys and Telegram bot token.
+2. Run the bot using:
+
+```$ python main.py ```
+
+
+### 🛠 Troubleshooting Tips:
+
+- **API Limit Reached**: Some APIs have request limits. Ensure you haven't exceeded them.
+- **Bot Not Responding**: Check your internet connection and ensure the bot token is correct.
+- **Data Mismatch**: Ensure the wallet address or token name provided is accurate.
+
+### 🤝 Contribution Guidelines:
+
+1. Fork the repository.
+2. Create a new branch for your features or bug fixes.
+3. Push your changes to the branch.
+4. Create a pull request detailing the changes made.
+5. Once reviewed, your changes will be merged!
+
