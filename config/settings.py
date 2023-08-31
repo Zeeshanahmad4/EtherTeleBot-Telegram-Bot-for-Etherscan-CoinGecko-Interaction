@@ -1,1 +1,7 @@
-# Configuration files 
+# config/settings.py
+
+# Placeholders for the actual values
+ETHERSCAN_API_KEY = "YOUR_ETHERSCAN_API_KEY"
+COINGECKO_API_KEY = "YOUR_COINGECKO_API_KEY"
+TELEGRAM_BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+
