@@ -30,7 +30,7 @@
 
 **Table of Contents:**
 
-1. <a [Project Overview](#project-overview)> </a>
+1. - [Project Overview](#project-overview)
 2. [Features](#features)
    - [Telegram Group Integration](#telegram-group-integration)
    - [Exclusive User Interaction](#exclusive-user-interaction)
