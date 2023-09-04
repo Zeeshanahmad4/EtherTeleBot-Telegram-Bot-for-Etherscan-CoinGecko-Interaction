@@ -28,6 +28,27 @@
   <strong>For discussion, queries, and freelance work. Do reach me.👆👆👆</strong>
 </div>
 
+**Table of Contents:**
+
+1. [Project Overview](#project-overview)
+2. [Features](#features)
+   - [Telegram Group Integration](#telegram-group-integration)
+   - [Exclusive User Interaction](#exclusive-user-interaction)
+   - [Real-time Wallet & Contract Monitoring](#real-time-wallet--contract-monitoring)
+   - [Dynamic Management via Telegram](#dynamic-management-via-telegram)
+   - [API Integration](#api-integration)
+3. [Future Enhancements](#future-enhancements)
+   - [Notification System](#notification-system)
+   - [Data Visualization](#data-visualization)
+   - [Custom Command Creation](#custom-command-creation)
+4. [Usage Examples](#usage-examples)
+5. [Setup and Installation Instructions](#setup-and-installation-instructions)
+6. [Troubleshooting Tips](#troubleshooting-tips)
+   - [API Limit Reached](#api-limit-reached)
+   - [Bot Not Responding](#bot-not-responding)
+   - [Data Mismatch](#data-mismatch)
+7. [Contribution Guidelines](#contribution-guidelines)
+
 
 ### 🌟 Project Overview:
 
