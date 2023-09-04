@@ -34,7 +34,6 @@
 2. [Features](#-features)
       - [Future Enhancements](#-future-enhancements)
 4. [Usage Examples](#-usage-examples)
-      - [Setup and Installation Instructions](#-setup-and-installation-instructions)
 6. [Troubleshooting Tips](#-troubleshooting-tips)
 7. [Contribution Guidelines](#-contribution-guidelines)
 
@@ -68,7 +67,7 @@ Once the bot is running, you can use commands like:
 - `/start` - Initialize the bot.
 - `/monitor_wallet <wallet_address>` - Monitor a specific Ethereum wallet.
 
-## Setup and Installation Instructions 🔧:
+ Setup and Installation Instructions 🔧:
 
 ``` $ git clone https://github.com/yourusername/EtherTeleBot.git```
 
