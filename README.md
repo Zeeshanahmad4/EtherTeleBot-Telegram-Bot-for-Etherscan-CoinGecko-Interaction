@@ -14,7 +14,7 @@
   <span> ┃ </span>
   
   <a href="https://discord.com">
-    <img alt="Discord" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" />
+    <img alt="Discord" width="30px" src="https://github.com/Zeeshanahmad4/RealEstateMate-WhatsApp-Group-Management-Bot/blob/main/discord-icon-svgrepo-com.svg" />
     <code>zee#2655</code>
   </a>
   <span> ┃ </span>
