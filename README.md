@@ -32,9 +32,9 @@
 
 1. [Project Overview](#-project-overview)
 2. [Features](#-features)
-3. [Future Enhancements](#-future-enhancements)
+- [Future Enhancements](#-future-enhancements)
 4. [Usage Examples](#-usage-examples)
-5. [Setup and Installation Instructions](#-setup-and-installation-instructions)
+- [Setup and Installation Instructions](#-setup-and-installation-instructions)
 6. [Troubleshooting Tips](#-troubleshooting-tips)
 7. [Contribution Guidelines](#-contribution-guidelines)
 
